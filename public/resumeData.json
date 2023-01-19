@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Naitik Gupta",
+    "occupation": "As a SDE intern ",
+    
+    
+    "image": "profile.jpg",
+    "bio": "I am Naitik Gupta, coming from Computer Science background, I aspire to work as a Software Developer so that I can be involved with the design of tomorrow's technology. Being an coder, I have always believed in working hard for any project assigned.",
+    "contactmessage": "Get in touch with me ",
+    "email": "naitikgupta555@gmail.com",
+    "phone": "9824619236",
+    "address": {
+      "street": "61-Pratham residency",
+      "city": "Palanpur",
+      "state": "Gujarat",
+      "zip": "385001"
+    },
+    
+    "resumedownload": "https://docs.google.com/document/d/1eOiLZQ8ilHMojmOmgZvMX230i9InjdyrnKy69i6nvwU/edit?usp=sharing",
+    "social": [
+    
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/naitik-gupta-me/",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "github",
+        "url": "https://github.com/Naitik555",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Vellore Institution of Technology,Bhopal ",
+        "degree": "achelor of Technology in Computer Science Engineering",
+        "graduated": "August 2023",
+        "description": "8.05"
+      },
+      {
+        "school": "Vidyamandir Palanpur, Gujarat",
+        "degree": "12th Class",
+        "graduated": "July 2019",
+        "description": "69%"
+      },
+      {
+        "school": "K. B. karanavat School Gujarat",
+        "degree": "10th Class",
+        "graduated": "July 2017",
+        "description": "79%"
+      }
+
+      
+      
+    ],
+    
+    "work": [
+      {
+        "company": "Erricsion Global Pvt",
+        "title": "Software Intern",
+        "years": "Present",
+        "description": "Working in a software development team."
+      }
+    ],
+    "skills": [
+      {
+        "name": "c++",
+        "level": "90%"
+      },
+      {
+        "name": "My SQl",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Android development",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Period Dairy",
+        "category": "Android",
+        "image": "pd.jpg",
+        "url": "https://github.com/Naitik555/Period-Diary"
+      },
+      {
+        "title": "Face mask and Temperature detector",
+        "category": "Iot",
+        "image": "dp.jpg",
+        "url": "https://github.com/Naitik555/Face-mask-detector"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+        "user": "Rajanand"
+      }
+      
+    ]
+  }
+}
